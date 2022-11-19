@@ -114,8 +114,6 @@ button {
     box-shadow: 0.2rem 0.8rem 0.4rem 0.2rem rgba(18, 19, 20, 0.53);
     border: none;
     border-radius: 2.6rem;
-    -webkit-border-radius: 2.6rem;
-    -moz-border-radius: 2.6rem;
     color:hsl(257, 40%, 49%);
     font-weight: 300;
     font-size: 0.8rem;
